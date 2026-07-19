@@ -123,7 +123,7 @@ License
 This project is provided for educational purposes. You can apply a license as you prefer — MIT is recommended:
 ```
 MIT License
-Copyright (c) 2025 Baka Prince
+Copyright (c) 2025 Ritesh Pandey
 ```
 -------------------------------
 Contact / Author
